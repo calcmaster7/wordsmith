@@ -1,5 +1,7 @@
 # wordsmith
-The world's first vocabulary journal builder! Need to know the definition of a word? This command line program continuously asks you to give it a word to define, makes requests to a dictionary API, and saves the word/definition to a forever growing text file on disk! Oh, and most importantly, it tells you the definition of the word live in the terminal! 
+The world's first vocabulary journal builder! Wordsmith gives you the definition of a word while simultaneously keeping an ever expanding journal of all the words you've ever learned on disk! 
+
+This command line program continuously asks you to give it a word to define, makes requests to a dictionary API, and saves the word/definition to a forever growing text file on disk! Oh, and most importantly, it tells you the definition of the word live in the terminal! 
 
 # Usage
 pip install -r requirements.txt
