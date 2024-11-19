@@ -3,7 +3,6 @@
 
 This command-line program continuously prompts you for a word, fetches its definition from a dictionary API, saves it to a text file, and displays the definition live in your terminal. Learning has never been so seamless and fun!
 
-![Wordsmith in Action](wordsmithpic.png)
 ---
 
 ## 🌟 Features
@@ -12,6 +11,9 @@ This command-line program continuously prompts you for a word, fetches its defin
 - **Customizable Journal**: Use an existing journal or start fresh—your choice!
 
 ---
+
+![Wordsmith in Action](wordsmithpic.png)
+
 
 ## Usage
 
