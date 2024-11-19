@@ -1,5 +1,5 @@
 # Wordsmith 📚✨  
-**The world's first vocabulary journal builder!** Wordsmith helps you expand your vocabulary while keeping an ever-growing journal of all the words you've learned, saved directly on disk.
+**The world's first vocabulary journal builder** Wordsmith helps you expand your vocabulary while keeping an ever-growing journal of all the words you've learned, saved directly on disk.
 
 This command-line program continuously prompts you for a word, fetches its definition from a dictionary API, saves it to a text file, and displays the definition live in your terminal. Learning has never been so seamless and fun!
 
